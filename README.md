@@ -5,5 +5,5 @@ KEY HIGHLIGHTS
 -Contributed to the development of KPIs to track important metrics
 
 - Created slicers to interact and visualise the data
-- EXCEL LINK -  https://drive.google.com/drive/folders/1kOVi2q1H-n57MSN-aYnRwr18OiBnh-BG?usp=drive_link
+- EXCEL LINK - https://docs.google.com/spreadsheets/d/1Ql4ExVaBOAu7YpDgqV_o0RGTDZNiq0w7YMbfGeuZl48/edit?usp=drivesdk
 - PDF LINK -https://drive.google.com/drive/folders/1BMlmtH5uTilG3q1blzPh5s5P27Fgw4Ig?usp=drive_link
