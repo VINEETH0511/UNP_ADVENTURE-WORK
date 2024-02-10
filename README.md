@@ -6,4 +6,4 @@ KEY HIGHLIGHTS
 
 - Created slicers to interact and visualise the data
 - EXCEL LINK - https://docs.google.com/spreadsheets/d/1Ql4ExVaBOAu7YpDgqV_o0RGTDZNiq0w7YMbfGeuZl48/edit?usp=drivesdk
-- PDF LINK -https://drive.google.com/drive/folders/1BMlmtH5uTilG3q1blzPh5s5P27Fgw4Ig?usp=drive_link
+- PDF LINK -https://drive.google.com/file/d/1Ju5Nsv6CHh86ROI_nGfIfOooXSwMXYDB/view?usp=drivesdk
